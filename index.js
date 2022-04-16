@@ -16,7 +16,6 @@ async function moveNPC(){
 }
 moveNPC()
 
-//bonus for generator
 
 
 // Create the inventory
